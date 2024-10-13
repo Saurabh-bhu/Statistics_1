@@ -1,0 +1,109 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Gender,Average wage or salary earnings rupees per day received by regular wage or salaried employees in urban India
+1,India,1,Jammu And Kashmir,2011,"Agriculture Year (Jul - Jun), 2011",Female,475.0552133277068250203598
+2,India,1,Jammu And Kashmir,2011,"Agriculture Year (Jul - Jun), 2011",Male,485.8636781483532816446331
+3,India,1,Jammu And Kashmir,2011,"Agriculture Year (Jul - Jun), 2011",Persons,484.1250202211859661788065
+4,India,2,Himachal Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Female,306.55
+5,India,2,Himachal Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Male,426.03
+6,India,2,Himachal Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,396.75
+7,India,3,Punjab,2011,"Agriculture Year (Jul - Jun), 2011",Female,399.38
+8,India,3,Punjab,2011,"Agriculture Year (Jul - Jun), 2011",Male,352.58
+9,India,3,Punjab,2011,"Agriculture Year (Jul - Jun), 2011",Persons,361.75
+10,India,4,Chandigarh,2011,"Agriculture Year (Jul - Jun), 2011",Female,654.22
+11,India,4,Chandigarh,2011,"Agriculture Year (Jul - Jun), 2011",Male,568.13
+12,India,4,Chandigarh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,582.63
+13,India,5,Uttarakhand,2011,"Agriculture Year (Jul - Jun), 2011",Female,445.76
+14,India,5,Uttarakhand,2011,"Agriculture Year (Jul - Jun), 2011",Male,447.54
+15,India,5,Uttarakhand,2011,"Agriculture Year (Jul - Jun), 2011",Persons,447.26
+16,India,6,Haryana,2011,"Agriculture Year (Jul - Jun), 2011",Female,635.59
+17,India,6,Haryana,2011,"Agriculture Year (Jul - Jun), 2011",Male,810.93
+18,India,6,Haryana,2011,"Agriculture Year (Jul - Jun), 2011",Persons,776.85
+19,India,7,Delhi,2011,"Agriculture Year (Jul - Jun), 2011",Female,683.98
+20,India,7,Delhi,2011,"Agriculture Year (Jul - Jun), 2011",Male,569.56
+21,India,7,Delhi,2011,"Agriculture Year (Jul - Jun), 2011",Persons,589.29
+22,India,8,Rajasthan,2011,"Agriculture Year (Jul - Jun), 2011",Female,412.89
+23,India,8,Rajasthan,2011,"Agriculture Year (Jul - Jun), 2011",Male,417.14
+24,India,8,Rajasthan,2011,"Agriculture Year (Jul - Jun), 2011",Persons,416.54
+25,India,9,Uttar Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Female,378
+26,India,9,Uttar Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Male,496.53
+27,India,9,Uttar Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,482.87
+28,India,10,Bihar,2011,"Agriculture Year (Jul - Jun), 2011",Female,369.02
+29,India,10,Bihar,2011,"Agriculture Year (Jul - Jun), 2011",Male,417.1
+30,India,10,Bihar,2011,"Agriculture Year (Jul - Jun), 2011",Persons,412.24
+31,India,11,Sikkim,2011,"Agriculture Year (Jul - Jun), 2011",Female,418.87
+32,India,11,Sikkim,2011,"Agriculture Year (Jul - Jun), 2011",Male,541.06
+33,India,11,Sikkim,2011,"Agriculture Year (Jul - Jun), 2011",Persons,510.07
+34,India,12,Arunachal Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Female,629.15
+35,India,12,Arunachal Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Male,705.38
+36,India,12,Arunachal Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,694.41
+37,India,13,Nagaland,2011,"Agriculture Year (Jul - Jun), 2011",Female,417.63
+38,India,13,Nagaland,2011,"Agriculture Year (Jul - Jun), 2011",Male,596.6
+39,India,13,Nagaland,2011,"Agriculture Year (Jul - Jun), 2011",Persons,569.24
+40,India,14,Manipur,2011,"Agriculture Year (Jul - Jun), 2011",Female,646.92
+41,India,14,Manipur,2011,"Agriculture Year (Jul - Jun), 2011",Male,666.55
+42,India,14,Manipur,2011,"Agriculture Year (Jul - Jun), 2011",Persons,663.17
+43,India,15,Mizoram,2011,"Agriculture Year (Jul - Jun), 2011",Female,610.51
+44,India,15,Mizoram,2011,"Agriculture Year (Jul - Jun), 2011",Male,850.29
+45,India,15,Mizoram,2011,"Agriculture Year (Jul - Jun), 2011",Persons,797.23
+46,India,16,Tripura,2011,"Agriculture Year (Jul - Jun), 2011",Female,301.52
+47,India,16,Tripura,2011,"Agriculture Year (Jul - Jun), 2011",Male,409.66
+48,India,16,Tripura,2011,"Agriculture Year (Jul - Jun), 2011",Persons,380.23
+49,India,17,Meghalaya,2011,"Agriculture Year (Jul - Jun), 2011",Female,444.08
+50,India,17,Meghalaya,2011,"Agriculture Year (Jul - Jun), 2011",Male,527.21
+51,India,17,Meghalaya,2011,"Agriculture Year (Jul - Jun), 2011",Persons,501.52
+52,India,18,Assam,2011,"Agriculture Year (Jul - Jun), 2011",Female,561.63
+53,India,18,Assam,2011,"Agriculture Year (Jul - Jun), 2011",Male,615.23
+54,India,18,Assam,2011,"Agriculture Year (Jul - Jun), 2011",Persons,606.96
+55,India,19,West Bengal,2011,"Agriculture Year (Jul - Jun), 2011",Female,323.56
+56,India,19,West Bengal,2011,"Agriculture Year (Jul - Jun), 2011",Male,454.61
+57,India,19,West Bengal,2011,"Agriculture Year (Jul - Jun), 2011",Persons,424.85
+58,India,20,Jharkhand,2011,"Agriculture Year (Jul - Jun), 2011",Female,380
+59,India,20,Jharkhand,2011,"Agriculture Year (Jul - Jun), 2011",Male,576.69
+60,India,20,Jharkhand,2011,"Agriculture Year (Jul - Jun), 2011",Persons,551.39
+61,India,21,Odisha,2011,"Agriculture Year (Jul - Jun), 2011",Female,286.42
+62,India,21,Odisha,2011,"Agriculture Year (Jul - Jun), 2011",Male,457.66
+63,India,21,Odisha,2011,"Agriculture Year (Jul - Jun), 2011",Persons,431.66
+64,India,22,Chhattisgarh,2011,"Agriculture Year (Jul - Jun), 2011",Female,252.07
+65,India,22,Chhattisgarh,2011,"Agriculture Year (Jul - Jun), 2011",Male,351.6
+66,India,22,Chhattisgarh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,322.84
+67,India,23,Madhya Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Female,320.58
+68,India,23,Madhya Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Male,459.66
+69,India,23,Madhya Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,436.12
+70,India,24,Gujarat,2011,"Agriculture Year (Jul - Jun), 2011",Female,271.86
+71,India,24,Gujarat,2011,"Agriculture Year (Jul - Jun), 2011",Male,326.34
+72,India,24,Gujarat,2011,"Agriculture Year (Jul - Jun), 2011",Persons,319.71
+73,India,27,Maharashtra,2011,"Agriculture Year (Jul - Jun), 2011",Female,370.3
+74,India,27,Maharashtra,2011,"Agriculture Year (Jul - Jun), 2011",Male,516.55
+75,India,27,Maharashtra,2011,"Agriculture Year (Jul - Jun), 2011",Persons,485.72
+76,India,28,Andhra Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Female,143.469111205819666992865
+77,India,28,Andhra Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Male,250.2934246458696975411656
+78,India,28,Andhra Pradesh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,231.7347790627414075433210
+79,India,29,Karnataka,2011,"Agriculture Year (Jul - Jun), 2011",Female,391.97
+80,India,29,Karnataka,2011,"Agriculture Year (Jul - Jun), 2011",Male,518.58
+81,India,29,Karnataka,2011,"Agriculture Year (Jul - Jun), 2011",Persons,486.92
+82,India,30,Goa,2011,"Agriculture Year (Jul - Jun), 2011",Female,435.98
+83,India,30,Goa,2011,"Agriculture Year (Jul - Jun), 2011",Male,459.04
+84,India,30,Goa,2011,"Agriculture Year (Jul - Jun), 2011",Persons,452.29
+85,India,31,Lakshadweep,2011,"Agriculture Year (Jul - Jun), 2011",Female,591.57
+86,India,31,Lakshadweep,2011,"Agriculture Year (Jul - Jun), 2011",Male,690.68
+87,India,31,Lakshadweep,2011,"Agriculture Year (Jul - Jun), 2011",Persons,669.29
+88,India,32,Kerala,2011,"Agriculture Year (Jul - Jun), 2011",Female,412.47
+89,India,32,Kerala,2011,"Agriculture Year (Jul - Jun), 2011",Male,519.84
+90,India,32,Kerala,2011,"Agriculture Year (Jul - Jun), 2011",Persons,480.43
+91,India,33,Tamil Nadu,2011,"Agriculture Year (Jul - Jun), 2011",Female,297.63
+92,India,33,Tamil Nadu,2011,"Agriculture Year (Jul - Jun), 2011",Male,420.76
+93,India,33,Tamil Nadu,2011,"Agriculture Year (Jul - Jun), 2011",Persons,389.81
+94,India,34,Puducherry,2011,"Agriculture Year (Jul - Jun), 2011",Female,224.19
+95,India,34,Puducherry,2011,"Agriculture Year (Jul - Jun), 2011",Male,409.82
+96,India,34,Puducherry,2011,"Agriculture Year (Jul - Jun), 2011",Persons,364.09
+97,India,35,Andaman And Nicobar Islands,2011,"Agriculture Year (Jul - Jun), 2011",Female,773.96
+98,India,35,Andaman And Nicobar Islands,2011,"Agriculture Year (Jul - Jun), 2011",Male,654.08
+99,India,35,Andaman And Nicobar Islands,2011,"Agriculture Year (Jul - Jun), 2011",Persons,684.32
+100,India,36,Telangana,2011,"Agriculture Year (Jul - Jun), 2011",Female,100.830888794180333007135
+101,India,36,Telangana,2011,"Agriculture Year (Jul - Jun), 2011",Male,177.5265753541303024588344
+102,India,36,Telangana,2011,"Agriculture Year (Jul - Jun), 2011",Persons,163.6152209372585924566790
+103,India,37,Ladakh,2011,"Agriculture Year (Jul - Jun), 2011",Female,9.6547866722931749796402
+104,India,37,Ladakh,2011,"Agriculture Year (Jul - Jun), 2011",Male,11.7463218516467183553669
+105,India,37,Ladakh,2011,"Agriculture Year (Jul - Jun), 2011",Persons,10.8249797788140338211935
+106,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Agriculture Year (Jul - Jun), 2011",Female,813.0800000000000000000000
+107,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Agriculture Year (Jul - Jun), 2011",Male,783.6600000000000000000000
+108,India,38,The Dadra And Nagar Haveli And Daman And Diu,2011,"Agriculture Year (Jul - Jun), 2011",Persons,788.6200000000000000000000
